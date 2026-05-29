@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A11CB&width=600&lines=A+Computer+Science+Student+%F0%9F%92%BB;Passionate+about+AI+%26+Tech+%F0%9F%9A%80;Always+eager+to+learn+and+grow+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
-I'm a Computer Science student building a solid foundation in programming and exploring the endless possibilities of AI and software engineering. I created this GitHub space to log my learning journey, build meaningful projects, and prepare for future career opportunities. 
-
-I love exchanging ideas and would greatly appreciate any feedback or code reviews to help me grow! 💪
+I am a beginner Python developer currently studying Linux. 🐧
+I created this GitHub profile to gain various experiences while attending university. 
+I may still have a lot to learn, but I will do my best to show you my continuous growth and improvement! 🚀
 
 ⭐ Feel free to connect or follow my work — thanks for dropping by!
 
