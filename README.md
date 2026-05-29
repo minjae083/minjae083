@@ -1,8 +1,5 @@
 <div align="center">
-  
-# ✨ Hello World! ✨
-<img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Banner Image">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a11cb,2575fc&height=220&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header Banner">
 </div>
 
 <br>
@@ -11,7 +8,7 @@
 ------------------------------------
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&width=600&lines=A+Computer+Science+Student+%F0%9F%92%BB;Passionate+about+AI+%26+Tech+%F0%9F%9A%80;Always+eager+to+learn+and+grow+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A11CB&width=600&lines=A+Computer+Science+Student+%F0%9F%92%BB;Passionate+about+AI+%26+Tech+%F0%9F%9A%80;Always+eager+to+learn+and+grow+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 I'm a Computer Science student building a solid foundation in programming and exploring the endless possibilities of AI and software engineering. I created this GitHub space to log my learning journey, build meaningful projects, and prepare for future career opportunities. 
